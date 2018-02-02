@@ -1,3 +1,6 @@
+/*
+* Implement atoi to convert a string to an integer.
+*/
 class Solution {
 public:
 	int myAtoi(string str) {
