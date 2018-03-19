@@ -14,3 +14,7 @@
 | Container With Most Water           |
 | Integer to Roman          |
 | Roman to Integer          |
+| Longest Common Prefix          |
+| 3Sum          |
+| 3Sum Closest          |
+| Letter Combinations of a Phone Number          |
